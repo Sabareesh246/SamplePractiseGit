@@ -1,0 +1,1 @@
+used to check merge and rebase options
